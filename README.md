@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaspervdZwaan
 - 👀 I’m interested in chess, programming and learning
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning GRPC
 - 📫 How to reach me jasper.vanderzwaan.dev@gmail.com
 
 <!---
