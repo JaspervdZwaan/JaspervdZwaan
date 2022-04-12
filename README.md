@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaspervdZwaan
-- 👀 I’m interested in chess, and languages
-- 🌱 I’m currently learning Haskell 😭
+- 👀 I’m interested in chess, programming, and languages
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me jasper.vanderzwaan.dev@gmail.com
 
 <!---
